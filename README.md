@@ -51,9 +51,7 @@ This is my second App Repo.
 ### Running the App
 
 <p>To run the app on your local machine, execute the following command in your terminal:</p>
-<br>
 <p><Strong>flutter run</Strong></p>
-<br>
 <p>This command will compile and run the app on a connected device or emulator.</p>
 
 ## Project Structure
