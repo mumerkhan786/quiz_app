@@ -11,8 +11,8 @@ class UserGuideContent extends StatelessWidget {
         child: Container(
           margin: const EdgeInsets.all(30),
           child: Column(
-            mainAxisAlignment: MainAxisAlignment.start,
-            crossAxisAlignment: CrossAxisAlignment.stretch,
+            // mainAxisAlignment: MainAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               const GuideTextWidget('Welcome to the Quiz App!'),
               const SizedBox(height: 10),
