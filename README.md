@@ -30,7 +30,7 @@ This is my second App Repo.
 
 <ol>
 <li><Strong>Clone the repository:</Strong></li>
-<p>git clone https://github.com/yourusername/quiz_app.git</p>
+<p>git clone https://github.com/mumerkhan786/quiz_app.git</p>
 <li><Strong>Navigate to the project directory:</Strong></li>
 <p>cd quiz_app</p>
 <li><Strong>Install dependencies:</Strong></li>
